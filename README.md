@@ -123,11 +123,11 @@ npm start
 
 ---
 
-## 🌐 Live Demo
+## Live Demo
 
-[Access Live Application](https://youtu.be/N2tqwfM5loA)
+[Access Live Application](https://youtu.be/0rWuVny2zz4)
 
 ---
 
-This project represents a secure, transparent, and democratic approach to fundraising for animal-related causes, leveraging the power of blockchain technology. ⭐
+This project represents a secure, transparent, and democratic approach to fundraising for animal-related causes, leveraging the power of blockchain technology.
 
