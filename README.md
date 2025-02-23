@@ -2,7 +2,7 @@
 
 This project implements a **Decentralized Autonomous Organization (DAO)** designed to facilitate fundraising for animal-related causes. Built on the Ethereum blockchain, the DAO enables users to contribute, propose, vote, and execute funding decisions in a secure, transparent, and automated manner.
 
-## 🚀 Features
+## Features
 
 - **ETH Contributions for Membership:** Users can become DAO members by contributing ETH.
 - **Proposal Creation:** Members can submit funding proposals for animal-related causes.
@@ -12,19 +12,7 @@ This project implements a **Decentralized Autonomous Organization (DAO)** design
 
 ---
 
-## ⚡ Technical Architecture
-
-The project leverages the following technologies:
-
-- **Solidity:** Smart contracts implementing DAO logic.
-- **Hardhat:** Development environment for compiling, testing, and deploying smart contracts.
-- **Ethers.js:** Facilitates blockchain interactions within the frontend.
-- **React:** Provides an intuitive and responsive user interface.
-- **MetaMask:** Enables secure wallet interactions for ETH transactions.
-
----
-
-## 🎯 Demonstration Workflow
+##  Demonstration Workflow
 
 1. **Connect Wallet:** Users connect their MetaMask wallet.
 2. **Contribute ETH:** Members contribute ETH to join the DAO.
@@ -34,7 +22,7 @@ The project leverages the following technologies:
 
 ---
 
-## 🔒 Security Measures
+## Security Measures
 
 - **Permission Checks:** Modifiers ensure that only authorized users perform critical actions.
 - **Duplicate Vote Prevention:** The system verifies and prevents duplicate votes.
@@ -43,7 +31,7 @@ The project leverages the following technologies:
 
 ---
 
-## 💡 Possible Improvements
+##  Possible Improvements
 
 - **IPFS Integration:** For decentralized storage of detailed proposal information.
 - **Governance Tokens:** Introduce tokens to represent voting power.
@@ -52,7 +40,7 @@ The project leverages the following technologies:
 
 ---
 
-## 🛠️ How to Test
+##  How to Test
 
 ```bash
 # Prepare Environment
@@ -75,7 +63,7 @@ npm start
 
 ---
 
-## ✅ Technical Requirements Fulfilled
+## Technical Requirements Fulfilled
 
 - Usage of **Solidity-specific types** (mappings, address).
 - **Events** implemented for transaction tracking.
@@ -87,7 +75,7 @@ npm start
 
 ---
 
-## 🌟 Key Highlights
+##  Key Highlights
 
 - **Fully Functional DAO System:** End-to-end fundraising DAO for animal causes.
 - **Modular & Extensible Architecture:** Designed for easy future enhancements.
@@ -96,7 +84,7 @@ npm start
 
 ---
 
-## 💾 Repository Structure
+##  Repository Structure
 
 ```plaintext
 ├── contracts/             # Solidity smart contracts
@@ -111,7 +99,7 @@ npm start
 
 ---
 
-## 💻 Running the Project
+##  Running the Project
 
 ```bash
 # Clone the repository
@@ -135,17 +123,9 @@ npm start
 
 ---
 
-## 🤝 Contributing
-
-Contributions are welcome! Please open an issue or submit a pull request.
-
----
-
-
-
 ## 🌐 Live Demo
 
-[Access Live Application](https://your-live-demo-link.com)
+[Access Live Application](https://youtu.be/N2tqwfM5loA)
 
 ---
 
